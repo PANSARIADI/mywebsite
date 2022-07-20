@@ -1,0 +1,15 @@
+#mainContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 46px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 23px;
+}
+#formContainer{
+    width: 500px;
+}
+#responseContainer{
+    margin-top: 100px;
+}
